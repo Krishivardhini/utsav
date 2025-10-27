@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "consultation": "Consultation",
+    "eventPlanning": "Event Planning",
+    "budgetPlanner": "Budget Planner"
+  },
+  "hero": {
+    "title": "Celebrate Every Sacred Moment",
+    "subtitle": "From weddings to festivals, birthdays to sacred ceremonies - we bring your Indian traditions to life with vibrant celebrations that honor your heritage.",
+    "cta": "Plan Your celebrations",
+    "consultation": "Free Consultation"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive wedding planning solutions tailored to your needs",
+    "fullPlanning": {
+      "title": "Full Wedding Planning",
+      "description": "Complete end-to-end wedding planning from concept to execution"
+    },
+    "partialPlanning": {
+      "title": "Partial Planning",
+      "description": "Assistance with specific aspects of your wedding planning"
+    },
+    "dayCoordination": {
+      "title": "Day-of Coordination",
+      "description": "Ensure everything runs smoothly on your special day"
+    },
+    "budgetPlanning": {
+      "title": "Budget Planning",
+      "description": "Smart budget allocation and cost optimization"
+    }
+  },
+  "ai": {
+    "title": "AI Wedding Assistant",
+    "subtitle": "Get personalized wedding planning advice powered by AI",
+    "chat": {
+      "placeholder": "Ask me anything about wedding planning...",
+      "send": "Send",
+      "thinking": "AI is thinking...",
+      "error": "Sorry, there was an error. Please try again."
+    },
+    "features": {
+      "budgetAdvice": "Budget Advice",
+      "venueSuggestions": "Venue Suggestions",
+      "timelineGenerator": "Timeline Generator",
+      "vendorRecommendations": "Vendor Recommendations"
+    }
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "contactUs": "Contact Us",
+    "readMore": "Read More",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  }
+}
